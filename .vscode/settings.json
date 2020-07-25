@@ -1,0 +1,5 @@
+{
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "python.pythonPath": "/home/temme/.local/share/virtualenvs/stack-B6nh7vOB/bin/python"
+}
